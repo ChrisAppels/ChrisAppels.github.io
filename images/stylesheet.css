@@ -33,8 +33,9 @@ li {
 
 #img{
   margin:25px 0px;
-  height: 150px;
-  width: 150px;
+  height: 40%;
+  width: 40%;
+  border-radius: 5%;
 }
 
 #fb{
@@ -104,6 +105,7 @@ li {
   margin: 10px;
   margin: auto;
   margin-top: 15px;
+  border-radius: 5%;
 }
 
 .info-container{
