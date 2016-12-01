@@ -1,6 +1,6 @@
 body {
   color: black;
-  font-family: 'Roboto-Condensed';
+  font-family: 'Lato';
   background: 'images/one.jpg';
 }
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Roboto';
+  font-family: 'Lato';
   margin:25px 0px;
 }
 
